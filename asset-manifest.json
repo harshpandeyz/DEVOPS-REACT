@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DEVOPS-REACT/static/css/main.3476eec3.css",
+    "main.js": "/DEVOPS-REACT/static/js/main.1461d47b.js",
+    "static/media/login.gif": "/DEVOPS-REACT/static/media/login.6ae0ee2e921058379d89.gif",
+    "static/media/register.gif": "/DEVOPS-REACT/static/media/register.2931f0f0157a3d45e737.gif",
+    "index.html": "/DEVOPS-REACT/index.html",
+    "main.3476eec3.css.map": "/DEVOPS-REACT/static/css/main.3476eec3.css.map",
+    "main.1461d47b.js.map": "/DEVOPS-REACT/static/js/main.1461d47b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3476eec3.css",
+    "static/js/main.1461d47b.js"
+  ]
+}
