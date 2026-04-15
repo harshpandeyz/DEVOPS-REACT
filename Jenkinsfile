@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/harshpandeyz/DEVOPS-REACT.git'
+                git branch: 'tanmay', url: 'https://github.com/harshpandeyz/DEVOPS-REACT.git'
             }
         }
 
