@@ -83,6 +83,9 @@ export default function About() {
         <h3 className="dev-name">Prathmesh Waghmare</h3>
         <p className="dev-role">Full-Stack Developer | Gamer | UI Enthusiast</p>
         <hr />
+         <h3 className="dev-name">Tanmay Shinde</h3>
+        <p className="dev-role">Full-Stack Developer | Debugger | Tester</p>
+        <hr />
         <h3 className="dev-name">Ibrahim Poonawala</h3>
         <p className="dev-role">Backend Developer | Devops Contributor</p>
         <hr />
@@ -116,6 +119,10 @@ export default function About() {
              <p><strong>Name:</strong> Harsh pandey</p>
             <p><strong>Phone:</strong> <a href="tel:+91 11235865">+91 11235865</a></p>
             <p><strong>Email:</strong> <a href="mailto:harshpandey289@gmail.com">harshap17058@gmail.com</a></p>
+
+             <p><strong>Name:</strong> Tanmay Shinde</p>
+            <p><strong>Phone:</strong> <a href="tel:+91 8007736520">+91 8007736520</a></p>
+            <p><strong>Email:</strong> <a href="mailto:shinde.tanmay@gmail.com">shinde.tanmay@gmail.com</a></p>
 
             <p><strong>Name:</strong> Ibrahim Poonawala</p>
             <p><strong>Phone:</strong> <a href="tel:+91 7219317252">+91 7219317252</a></p>
