@@ -89,7 +89,9 @@ export default function About() {
         <h3 className="dev-name">Ibrahim Poonawala</h3>
         <p className="dev-role">Backend Developer | Devops Contributor</p>
         <hr />
-        
+        <h3 className="dev-name">Harsh Pandey</h3>
+        <p className="dev-role">Backend Developer | Devops Contributor</p>
+        <hr />
 
         <p className="dev-desc">
           We created Game Hub as a modern, interactive platform where people can enjoy, 
