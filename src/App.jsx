@@ -23,6 +23,7 @@ import "./App.css";
 export default function App() {
   return (
     <>
+      <h1>Final Jury</h1>
       <Navbar />
       <main className="app-main">
         <Routes>
